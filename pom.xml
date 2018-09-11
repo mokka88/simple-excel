@@ -20,7 +20,7 @@
 
     <groupId>com.github.mokka88</groupId>
     <artifactId>simple-excel</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <name>simple-excel</name>
     <description>Simple-Excel wraps the Apache POI project with simple Java builders to modify sheets quickly and easily without all the boilerplate.</description>
@@ -56,7 +56,7 @@
     <scm>
         <connection>scm:git:git@github.com:mokka88/simple-excel.git</connection>
         <developerConnection>scm:git:git@github.com:mokka88/simple-excel.git</developerConnection>
-        <tag>simple-excel-1.1</tag>
+        <tag>simple-excel-1.2</tag>
         <url>https://github.com/mokka88/simple-excel</url>
     </scm>
 
